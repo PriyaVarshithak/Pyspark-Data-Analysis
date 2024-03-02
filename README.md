@@ -1,15 +1,17 @@
 # Pyspark-Data-Analysis
 
 **_Overview:_**
+
 This repository contains Python code for performing data analysis using PySpark, a Python API for Apache Spark. The code includes examples of data preprocessing, manipulation, and analysis using PySpark DataFrame operations.
 
 **_Contents:_**
+
 data_analysis.py: Python script for data analysis tasks.
 
 **_Requirements:_**
-Python 3.x
-Apache Spark
-PySpark library
+- Python 3.x
+- Apache Spark
+- PySpark library
 
 **_Usage:_**
 - Ensure you have Python and Apache Spark installed on your system.
