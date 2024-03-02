@@ -12,8 +12,8 @@ Apache Spark
 PySpark library
 
 **_Usage:_**
-Ensure you have Python and Apache Spark installed on your system.
-Clone or download this repository to your local machine.
-Open a terminal or command prompt and navigate to the repository directory.
-Run the data_analysis.py script using the command python data_analysis.py.
-Follow the instructions within the script to perform data analysis tasks using PySpark.
+- Ensure you have Python and Apache Spark installed on your system.
+- Clone or download this repository to your local machine.
+- Open a terminal or command prompt and navigate to the repository directory.
+- Run the data_analysis.py script using the command python data_analysis.py.
+- Follow the instructions within the script to perform data analysis tasks using PySpark.
